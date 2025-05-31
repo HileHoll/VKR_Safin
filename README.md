@@ -5,7 +5,7 @@
 Датасет содержит 10 000 записей с 14 признаками, включая температуру воздуха, температуру процесса, скорость вращения, крутящий момент и износ инструмента. Источник: UCI Machine Learning Repository.
 Установка и запуск
 
-Клонируйте репозиторий:git clone https://github.com/yourusername/predictive_maintenance_project.git
+Клонируйте репозиторий:git clone https://github.com/HileHoll/VKR_Safin.git
 
 
 Установите зависимости:pip install -r requirements.txt
